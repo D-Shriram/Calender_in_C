@@ -22,7 +22,12 @@ F) **Reminder System:** Optionally, you can include a reminder system to notify 
 # Challenges:
 
 a) Implementing date calculations, such as determining the first day of the month and the number of days in a month.
+
 b) Designing a user-friendly interface for command-line interaction.
+
 c) Managing event data efficiently, possibly using data structures like arrays or linked lists.
+
 d) Handling user input validation to prevent errors and crashes.
+
 e) Implementing a file I/O system for data persistence.
+
