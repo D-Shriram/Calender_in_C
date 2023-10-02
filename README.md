@@ -1,6 +1,6 @@
 # Calender_in_C
 
-Creating a calendar in C is a classic programming project that can serve as an excellent learning exercise for beginners and a practical utility for more experienced programmers. 
+Creating a calendar in C is a classic programming project that can serve as an excellent learning exercise for beginners and a practical utility for more experienced programmers.
 
 The goal of this project is to develop a simple command-line calendar application in the C programming language. This calendar program will allow users to view, navigate, and manage events and appointments for a given month and year. It should provide basic calendar functionalities, such as displaying the calendar grid, adding events, viewing events, and navigating between different months and years.
 
